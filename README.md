@@ -1,0 +1,1 @@
+Bank Loan Analysis Dashboard built using SQL, Python, and Power BI to analyze loan applications, funded amounts, repayment performance, interest rates, and borrower profiles. Includes interactive dashboards to evaluate good and bad loans and identify trends by state, loan purpose, employment length, loan term, and home ownership, supporting data-driven lending decisions.
